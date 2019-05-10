@@ -4,6 +4,8 @@ This game is a spin on classic Blackjack, in which the player plays a ninja atte
 The player must try to collect as many harddrives necessary to reach 21, or as close as possible to it.If unsuccessful, the player must battle
 another ninja to claim victory.
 
+Grade 10 Computer Science summative project.
+
 # Built With
 
 Turing
