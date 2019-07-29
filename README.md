@@ -5,11 +5,3 @@ The player must try to collect as many harddrives necessary to reach 21, or as c
 another ninja to claim victory.
 
 Grade 10 Computer Science summative project.
-
-# Built With
-
-Turing
-
-# Author
-
-Olivia Xie
